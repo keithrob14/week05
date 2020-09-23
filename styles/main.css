@@ -1,0 +1,28 @@
+h1 {
+    font-family: sans-serif;
+}
+
+html {
+    background-color: aqua;
+}
+
+p {
+    font-family: serif;
+    font-weight: bold;
+}
+
+div imageContainer{
+    width:80%;
+    margin: 0 auto 0 auto;
+}
+
+div img{
+    width: 100%;
+}
+
+@media screen and (min-width: 800px){
+    body{
+    }
+}
+
+
