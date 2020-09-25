@@ -1,0 +1,26 @@
+h1 {
+    font-family: sans-serif;
+}
+
+body {
+    background-color: lightgreen;
+    margin-left: auto;
+}
+
+p {
+    font-family: serif;
+    font-weight: bold;
+}
+
+div imageContainer{
+    width:80%;
+    margin: 0 auto 0 auto;
+}
+
+div img{
+    width: 100%;
+}
+
+
+
+
