@@ -22,6 +22,7 @@ div img{
 
 @media screen and (min-width: 800px){
     body{
+        flex-wrap: wrap;
     }
 }
 
